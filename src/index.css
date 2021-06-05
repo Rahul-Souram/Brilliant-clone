@@ -1,0 +1,59 @@
+#bg {
+  background-color: whitesmoke;
+}
+#logic {
+  font-size: 2cm;
+}
+#box {
+  width: 1000px;
+  height: 510px;
+  background-color: white;
+  border: 1px solid black;
+}
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+.p1 {
+  margin-top: 30px;
+}
+.card:hover {
+  box-shadow: 0px 2px 10px black;
+}
+#black {
+  width: 30%;
+  height: 1000px;
+  background-color: black;
+}
+#right {
+  text-align: end;
+  text-decoration: none;
+}
+#middle {
+  width: 50%;
+  height: 1000px;
+}
+#last {
+  width: 30%;
+  height: 1000px;
+  border-left: 1px solid black;
+}
+#dotted {
+  width: 150px;
+  height: 200px;
+  border-radius: 10px;
+  border: 2px dotted black;
+  margin: 20px;
+  line-height: 25vh;
+  font-weight: bold;
+}
+#dotted:hover {
+  border: 2px dotted blue;
+}
+#nav:hover {
+  text-decoration: underline;
+}
+
+#input {
+  border-radius: 50px;
+}
